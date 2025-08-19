@@ -8,6 +8,7 @@ the passport holder's name, passport number, nationality, sex, date of birth,
 date of issue, and expiry date. Additionally, it uses face recognition to 
 extract and save the portrait from the passport photo.
 
+**Video Demo:** [Passport OCR - YouTube](https://youtu.be/7KbLpSkNBLI)
 
 ## Instructions:
 ### 1. Prerequisites:
